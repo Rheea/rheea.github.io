@@ -13,9 +13,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Andreea Radulescu is a robotics researcher.'
+  rel-author: 'Andreea Radulescu'
+  rel-publisher: 'Andreea Radulescu'
 
 #-------------------------------
 # Google Analytics Section
@@ -33,7 +33,7 @@ google-analytics-ua: 'UA-112060364-3'
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'thathungrymind'
+  disqus_shortname: ''
 
 #-------------------------------
 # About Section
