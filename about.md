@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+  ## About Me - [CV](/files/docs/andreea_radulescu_cv.pdf)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+  ![MY Face](/files/img/profile.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a PostDoctoral Researcher in the [Dynamic Legged System lab](https://dls.iit.it/) at Istituto Italiano di Tecnologia.  I received my Ph.D (2016) and Msc (2011) in Intelligent Robotics from the University of Edinburgh,  working under the supervision of Prof. Sethu Vijayakumar. Previously, I graduated from the Polytechnic University of Bucharest , with a BSc in Engineering in Automatic Control and Applied Informatics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My research focuses on optimal control, machine learning and using variable impedance actuators for systems in domains with contacts. I am currently working on locomotion strategies for the HyQ robot series.
