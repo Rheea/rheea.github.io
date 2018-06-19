@@ -19,6 +19,12 @@ papers: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
+    <td markdown="span">[Probabilistic Contact Estimation and Impact Detection for State Estimation of Quadruped Robots](/publications/ral17camurri.pdf).
+    <br> M. Camurri, M. Fallon, S. Bazeille, **A. Radulescu**, V. Barasuol, D. G. Caldwell and C. Semini
+    <br> *IEEE Robotics and Automation Letters (RAL) and IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
     <td markdown="span">[Optimal Control of Variable Stiffness Policies: Dealing with Switching Dynamics and Model Mismatch](/publications/special17radulescu.pdf).
     <br> **A. Radulescu**, J. Nakanishi, D. J. Braun and S. Vijayakumar 
     <br> *Springer Tracts in Advanced Robotics: Geometric and Numerical Foundations of Movements, 2017*</td>
@@ -42,6 +48,20 @@ papers: >
     <col width="80%" />
   </colgroup>
   <tbody>
+
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span">[Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems](/publications/heijmink17humanoids.pdf).
+    <br>  E. Heijmink, **A. Radulescu**, B. Ponton, V. Barasuol,, D. G. Caldwell and C. Semini
+    <br> *IEEE International Conference on Humanoid Robots (Humanoids), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span">[Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems](/publications/icra17radulescu.pdf).
+    <br>  **A. Radulescu**, I. Havoutis, D. G. Caldwell and C. Semini
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
+  </tr>
+  <tr height ="10px"></tr>
   <tr>
     <td markdown="span">[Trajectory and Foothold Optimization using Low-Dimensional Models for Rough Terrain Locomotion](/publications/coupled17icra.pdf).
     <br> C. Mastalli, M. Focchi, I. Havoutis, **A. Radulescu**, S. Calinon, J. Buchli, D. G. Caldwell and C. Semini
@@ -69,6 +89,23 @@ papers: >
   </tbody>
   </table>
 
+  #### Invited Talks
+
+  <table>
+  <colgroup>
+    <col width="20%" />
+    <col width="80%" />
+  </colgroup>
+  <tbody>
+  <tr>
+    <td markdown="span"> **Robust Locomotion Strategies on the HyQ Robot Series**.
+    <br> [Dynamic Legged Locomotion in Realistic Terrains Workshop](https://icra18ws.weebly.com/)
+    <br> *The  International Conference on Robotics and Automation (ICRA), 2018*</td>
+  </tr>
+
+  </tbody>
+  </table>
+
 
   #### PhD Thesis
 
@@ -83,3 +120,6 @@ papers: >
     <br> **Andreea Radulescu**
     <br> *The University of Edinburgh*</td>
   </tr>
+
+  </tbody>
+  </table>
