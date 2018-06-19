@@ -1,0 +1,75 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Research', url: 'pages/research.html'}
+#- {name: 'Blog', url: 'pages/blog.html'}
+#- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+# About Section
+
+about: >
+  ## About Me - [CV](/files/docs/andreea_radulescu_cv.pdf)
+
+  <img src="/files/imgs/profile.jpg" align="left" alt="Drawing" style="width: 27.6%; display:inline;margin:17px 15px 2px 5px;"/>
+
+
+  I am currently a PostDoctoral Researcher in the [Dynamic Legged Systems Group](https://dls.iit.it/) at the Italian Institute of Technology.  I received my Ph.D (2016) and Msc (2011) in Intelligent Robotics from the University of Edinburgh,  working under the supervision of Prof. Sethu Vijayakumar. Previously, I graduated from the Polytechnic University of Bucharest , with a BSc in Engineering in Automatic Control and Applied Informatics. 
+
+
+  My research focuses on: optimal control, machine learning and using variable impedance actuators for systems in domains with contacts. I am currently working on locomotion strategies for the HyQ robot series. 
+
+contact: >
+  # Contact
+
+   If you'd like to know more about my research or would just like to discuss past or future projects, feel free to contact me [by email](mailto:andreearadulescu19@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/andreearadulescu19081985/).
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+#- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+#- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+#- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
+#- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/rheea'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreearadulescu19081985/'}
+- {icon: 'envelope', link: 'mailto:andreearadulescu19@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
