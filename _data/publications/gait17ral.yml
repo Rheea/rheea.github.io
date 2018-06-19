@@ -1,0 +1,32 @@
+research: >
+
+  #### [Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization (RAL)](/publications/gait17ral.pdf)
+  
+  <img src="/assets/img/publications/gait_perception.png" alt="Drawing" style="width: 100%;"/>
+
+  <iframe class="embed-responsive-item" allowfullscreen="allowfullscreen"
+    width="56%" height="237"
+    src="https://youtube.com/embed/RXIAQJx5938"
+    style="float: right; "
+    marginwidth="10">
+  </iframe>
+
+
+  Traditional motion planning approaches for multi-legged locomotion divide the problem into several stages, such as contact search and trajectory generation. However, reasoning about contacts and motions simultaneously is crucial for the generation of complex whole-body behaviors. Currently, coupling theses problems has required either the assumption of a fixed gait sequence and flat terrain condition, or non-convex optimization with intractable computation time. In this paper, we propose a mixed-integer convex formulation to plan simultaneously contact locations, gait transitions and motion, in a computationally efficient fashion. In contrast to previous works, our approach is not limited to flat terrain nor to a pre-specified gait sequence. Instead, we incorporate the friction cone stability margin, approximate the robot's torque limits, and plan the gait using mixed-integer convex constraints. We experimentally validated our approach on the HyQ robot by traversing different challenging terrains, where non-convexity and flat terrain assumptions might lead to sub-optimal or unstable plans. Our method increases the motion generality while keeping a low computation time.
+
+  <a href="/publications/gait17ral.pdf">
+    <img src="/assets/img/pdf-paper.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/bibtex/gait17ral.bib">
+    <img src="/assets/img/bibtex.jpg" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+  <a href="/publications/posters/gait18icra.pdf">
+    <img src="/assets/img/pdf-poster.png" alt="Drawing" style="height: 1.2em;"/>
+  </a>
+
+  <div style="float: center; text-align:center;">
+  <iframe src="//slides.com/cmastalli/gait17ral/embed"
+          width="76.8%" height="420" scrolling="no" frameborder="0"
+          webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe>
+  </div>
