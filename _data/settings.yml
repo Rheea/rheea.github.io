@@ -44,10 +44,10 @@ about: >
   <img src="/files/imgs/profile.jpg" align="left" alt="Drawing" style="width: 27.6%; display:inline;margin:17px 15px 2px 5px;"/>
 
 
-  I am a PostDoctoral Researcher in the [Dynamic Legged Systems Group](https://dls.iit.it/) at the Italian Institute of Technology.  I received my Ph.D (2016) and Msc (2011) in Intelligent Robotics from the University of Edinburgh,  working under the supervision of Prof. Sethu Vijayakumar. Previously, I graduated from the Polytechnic University of Bucharest , with a BSc in Engineering in Automatic Control and Applied Informatics. 
+  I am a PostDoctoral Researcher in the [Dynamic Legged Systems Group](https://dls.iit.it/) at the Italian Institute of Technology.  I received my Ph.D (2016) and Msc (2011) in Intelligent Robotics from the University of Edinburgh,  working under the supervision of Prof. Sethu Vijayakumar. Previously, I graduated from the Polytechnic University of Bucharest , with a BSc in Engineering in Automatic Control and Applied Informatics.
 
 
-  My research focuses on: optimal control, machine learning and using variable impedance actuators for systems in domains with contacts. I am currently working on locomotion strategies for the [HyQ robot series](https://dls.iit.it/robots). 
+  My research focuses on: optimal control, machine learning and using variable impedance actuators for systems in domains with contacts. I am currently working on locomotion strategies for the [HyQ robot series](https://dls.iit.it/robots).
 
 contact: >
   # Contact
@@ -71,5 +71,7 @@ social:
 - {icon: 'github', link: 'https://github.com/rheea'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreearadulescu19081985/'}
 - {icon: 'envelope', link: 'mailto:andreearadulescu19@gmail.com'}
+- {icon: 'google', link: 'https://scholar.google.it/citations?user=I2yknQQAAAAJ&hl=en'}
+
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
