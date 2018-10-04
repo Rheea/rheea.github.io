@@ -51,7 +51,7 @@ papers: >
 
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems](/publications/heijmink17humanoids.pdf).
+    <td markdown="span">[Learning Optimal Gait Parameters and Impedance Profiles for Legged Locomotion](/publications/heijmink17humanoids.pdf).
     <br>  E. Heijmink, **A. Radulescu**, B. Ponton, V. Barasuol,, D. G. Caldwell and C. Semini
     <br> *IEEE International Conference on Humanoid Robots (Humanoids), 2017*</td>
   </tr>
