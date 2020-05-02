@@ -13,6 +13,12 @@ papers: >
 
   <tr height ="10px"></tr>
   <tr>
+    <td markdown="span">[STANCE:Locomotion Adaptation over Soft Terrain](/publications/stance19fahmi.pdf).
+    <br> S. Fahmi, M. Focchi, **A. Radulescu**, G. Fink, V. Barasuol and C. Semini
+    <br> *EEE Transactions on Robotics (T-RO), 2019*</td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
     <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/publications/gait17ral.pdf).
     <br> B. Aceituno, C. Mastalli, H. Dai, M. Focchi, **A. Radulescu**, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
     <br> *IEEE Robotics and Automation Letters (RAL) and IEEE International Conference on Robotics and Automation (ICRA), 2018*</td>
