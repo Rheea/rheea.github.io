@@ -1,13 +1,15 @@
 papers: >
 
   #### Patents
+
   <table>
   <tbody>
-  <tr height ="10px"></tr>
   <tr>
-    <td Dynamic Stability of a Robot Manipulator 
-    <br> Applicant: Dyson Technology Ltd.
-    <br> Inventors: Edoardo Farnioli, Andreea Radulescu, Giulio Cerruti</td>
+    <td markdown="span"> **Dynamic Stability of a Robot Manipulator**.
+    <br> [GB2620638(A)](/publications/GB2620638A.pdf)
+    <br> [GB2620639(A)](/publications/GB2620639A.pdf)
+    <br> *Applicant: Dyson Technology Ltd.*
+    <br> *Inventors: Edoardo Farnioli, Andreea Radulescu, Giulio Cerruti*</td>
   </tr>
   </tbody>
   </table>
