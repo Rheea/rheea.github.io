@@ -41,7 +41,7 @@ disqus:
 about: >
   ## About Me - [CV](/files/docs/andreea_radulescu_cv.pdf)
 
-  <img src="/files/imgs/profile.jpg" align="left" alt="Drawing" style="width: 27.6%; display:inline;margin:17px 15px 2px 5px;"/>
+  <img src="/files/imgs/All3_andreea.jpg" align="left" alt="Andreea Radulescu" style="width: 27.6%; display:inline;margin:17px 15px 2px 5px;"/>
 
   I am currently the Head of Control at [ALL3 Ltd.](https://www.all3.com), where I define and drive the development roadmap for the Mantis robotic platform, focused on automating construction-site operations. I lead the control team responsible for the architecture supporting dynamic locomotion and manipulation across our robotic fleet, while expanding the stack toward reinforcement learning and AI-driven methodologies.
 
