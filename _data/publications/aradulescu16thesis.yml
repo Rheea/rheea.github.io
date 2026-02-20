@@ -16,7 +16,7 @@ research: >
   </colgroup>
   <tbody>
   <tr>
-    <td markdown="span"> The control of complex robotic platforms is a challenging task, especially in designs with high 
+    <td colspan="2" markdown="span"> The control of complex robotic platforms is a challenging task, especially in designs with high 
      levels of kinematic redundancy. Novel variable impedance actuators (VIAs) have recently demonstrated 
      that, by allowing the ability to simultaneously modulate the output torque and impedance, one can 
      achieve energetically more efficient and safer behaviour. However, this adds further levels of 
@@ -24,7 +24,7 @@ research: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">VIAs are designed with the ability to mechanically modulate impedance during movement. Recent work 
+    <td colspan="2" markdown="span">VIAs are designed with the ability to mechanically modulate impedance during movement. Recent work 
      from our group, employing the optimal control (OC) formulation to generate impedance policies, has 
      shown the potential benefit of VIAs in tasks requiring energy storage, natural dynamic exploitation 
      and robustness against perturbation. These approaches were, however, restricted to systems with 
@@ -35,7 +35,7 @@ research: >
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">Our work addresses these issues by extending the OC formulation to a multi-phase scenario and 
+    <td colspan="2" markdown="span">Our work addresses these issues by extending the OC formulation to a multi-phase scenario and 
      incorporating temporal optimisation capabilities (for robotic systems with VIAs). Given a predefined 
      switching sequence, the developed methodology computes the optimal torque and impedance profile,  
      alongside the optimal switching times and total movement duration. The resultant solution minimises 
@@ -57,31 +57,31 @@ research: >
   </colgroup>
   <tbody>
   <tr>
-    <td markdown="span">[Optimal Control of Variable Stiffness Policies: Dealing with Switching Dynamics and Model Mismatch](/publications/special17radulescu.pdf).
+    <td colspan="2" markdown="span">[Optimal Control of Variable Stiffness Policies: Dealing with Switching Dynamics and Model Mismatch](/publications/special17radulescu.pdf).
     <br> **A. Radulescu**, J. Nakanishi, D. J. Braun and S. Vijayakumar 
     <br> *Springer Tracts in Advanced Robotics: Geometric and Numerical Foundations of Movements, 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Spatio-temporal stiffness optimization with switching dynamics](/publications/auro16nakanishi.pdf).
+    <td colspan="2" markdown="span">[Spatio-temporal stiffness optimization with switching dynamics](/publications/auro16nakanishi.pdf).
     <br> J. Nakanishi, **A. Radulescu** and S. Vijayakumar
     <br> *Autonomous Robots, 2016*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Optimal Control of Multi-Phase Movements with Learned Dynamics](/publications/icmmi16radulescu.pdf).
+    <td colspan="2" markdown="span">[Optimal Control of Multi-Phase Movements with Learned Dynamics](/publications/icmmi16radulescu.pdf).
     <br> **A. Radulescu**, J. Nakanishi and S. Vijayakumar
     <br> *International Conference on Man-Machine Interactions (ICMMI), 2016*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Spatio-temporal optimization of multi-phase movements: Dealing with contacts and switching dynamics](/publications/iros13nakanishi.pdf).
+    <td colspan="2" markdown="span">[Spatio-temporal optimization of multi-phase movements: Dealing with contacts and switching dynamics](/publications/iros13nakanishi.pdf).
     <br> J. Nakanishi, **A. Radulescu** and S. Vijayakumar
     <br> *International Conference on Intelligent Robots and Systems (IROS), 2013*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Exploiting Variable Physical Damping in Rapid Movement Tasks](/publications/aim12radulescu.pdf).
+    <td colspan="2" markdown="span">[Exploiting Variable Physical Damping in Rapid Movement Tasks](/publications/aim12radulescu.pdf).
     <br> **A. Radulescu**, M. Howard, D.J. Braun and S. Vijayakumar
     <br> *International Conference on Advanced Intelligent Mechatronics (AIM), 2012*</td>
   </tr>

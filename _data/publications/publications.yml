@@ -5,7 +5,8 @@ papers: >
   <table>
   <tbody>
   <tr>
-    <td markdown="span"> **Dynamic Stability of a Robot Manipulator**.
+    <td class="pub-img"><img src="/assets/img/publications/GB2620638A-robot.png" alt="paper thumbnail" width="110" /></td>
+    <td class="pub-text" markdown="span"> **Dynamic Stability of a Robot Manipulator**.
     <br> Documents: [GB2620638(A)](/publications/GB2620638A.pdf) [GB2620639(A)](/publications/GB2620639A.pdf)
     <br> Inventors: E. Farnioli, **A. Radulescu**, G. Cerruti
     <br> *Applicant: Dyson Technology Ltd.*</td>
@@ -20,31 +21,36 @@ papers: >
 
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[STANCE:Locomotion Adaptation over Soft Terrain](/publications/stance19fahmi.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[STANCE:Locomotion Adaptation over Soft Terrain](/publications/stance19fahmi.pdf).
     <br> S. Fahmi, M. Focchi, **A. Radulescu**, G. Fink, V. Barasuol and C. Semini
     <br> *EEE Transactions on Robotics (T-RO), 2019*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/publications/gait17ral.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Simultaneous Contact, Gait and Motion Planning for Robust Multi-Legged Locomotion via Mixed-Integer Convex Optimization](/publications/gait17ral.pdf).
     <br> B. Aceituno, C. Mastalli, H. Dai, M. Focchi, **A. Radulescu**, D. G. Caldwell, J. Cappelletto, J. C. Grieco, G. Fernandez and C. Semini
     <br> *IEEE Robotics and Automation Letters (RAL) and IEEE International Conference on Robotics and Automation (ICRA), 2018*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Probabilistic Contact Estimation and Impact Detection for State Estimation of Quadruped Robots](/publications/ral17camurri.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Probabilistic Contact Estimation and Impact Detection for State Estimation of Quadruped Robots](/publications/ral17camurri.pdf).
     <br> M. Camurri, M. Fallon, S. Bazeille, **A. Radulescu**, V. Barasuol, D. G. Caldwell and C. Semini
     <br> *IEEE Robotics and Automation Letters (RAL) and IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Optimal Control of Variable Stiffness Policies: Dealing with Switching Dynamics and Model Mismatch](/publications/special17radulescu.pdf).
-    <br> **A. Radulescu**, J. Nakanishi, D. J. Braun and S. Vijayakumar 
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Optimal Control of Variable Stiffness Policies: Dealing with Switching Dynamics and Model Mismatch](/publications/special17radulescu.pdf).
+    <br> **A. Radulescu**, J. Nakanishi, D. J. Braun and S. Vijayakumar
     <br> *Springer Tracts in Advanced Robotics: Geometric and Numerical Foundations of Movements, 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Spatio-temporal stiffness optimization with switching dynamics](/publications/auro16nakanishi.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Spatio-temporal stiffness optimization with switching dynamics](/publications/auro16nakanishi.pdf).
     <br> J. Nakanishi, **A. Radulescu** and S. Vijayakumar
     <br> *Autonomous Robots, 2016*</td>
   </tr>
@@ -60,41 +66,47 @@ papers: >
 
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Learning Optimal Gait Parameters and Impedance Profiles for Legged Locomotion](/publications/heijmink17humanoids.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Learning Optimal Gait Parameters and Impedance Profiles for Legged Locomotion](/publications/heijmink17humanoids.pdf).
     <br>  E. Heijmink, **A. Radulescu**, B. Ponton, V. Barasuol,, D. G. Caldwell and C. Semini
     <br> *IEEE International Conference on Humanoid Robots (Humanoids), 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems](/publications/icra17radulescu.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Whole-body Trajectory Optimization for Non-periodic Dynamic Motions on Quadrupedal Systems](/publications/icra17radulescu.pdf).
     <br>  **A. Radulescu**, I. Havoutis, D. G. Caldwell and C. Semini
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Trajectory and Foothold Optimization using Low-Dimensional Models for Rough Terrain Locomotion](/publications/coupled17icra.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Trajectory and Foothold Optimization using Low-Dimensional Models for Rough Terrain Locomotion](/publications/coupled17icra.pdf).
     <br> C. Mastalli, M. Focchi, I. Havoutis, **A. Radulescu**, S. Calinon, J. Buchli, D. G. Caldwell and C. Semini
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2017*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Optimal Control of Multi-Phase Movements with Learned Dynamics](/publications/icmmi16radulescu.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Optimal Control of Multi-Phase Movements with Learned Dynamics](/publications/icmmi16radulescu.pdf).
     <br> **A. Radulescu**, J. Nakanishi and S. Vijayakumar
     <br> *International Conference on Man-Machine Interactions (ICMMI), 2016*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Spatio-temporal optimization of multi-phase movements: Dealing with contacts and switching dynamics](/publications/iros13nakanishi.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Spatio-temporal optimization of multi-phase movements: Dealing with contacts and switching dynamics](/publications/iros13nakanishi.pdf).
     <br> J. Nakanishi, **A. Radulescu** and S. Vijayakumar
     <br> *International Conference on Intelligent Robots and Systems (IROS), 2013*</td>
   </tr>
   <tr height ="10px"></tr>
   <tr>
-    <td markdown="span">[Exploiting Variable Physical Damping in Rapid Movement Tasks](/publications/aim12radulescu.pdf).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Exploiting Variable Physical Damping in Rapid Movement Tasks](/publications/aim12radulescu.pdf).
     <br> **A. Radulescu**, M. Howard, D.J. Braun and S. Vijayakumar
     <br> *International Conference on Advanced Intelligent Mechatronics (AIM), 2012*</td>
   </tr>
-  <tr height ="10px"></tr> 
+  <tr height ="10px"></tr>
   </tbody>
   </table>
 
@@ -103,7 +115,8 @@ papers: >
   <table>
   <tbody>
   <tr>
-    <td markdown="span"> **Robust Locomotion Strategies on the HyQ Robot Series**.
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span"> **Robust Locomotion Strategies on the HyQ Robot Series**.
     <br> [Dynamic Legged Locomotion in Realistic Terrains Workshop](https://icra18ws.weebly.com/)
     <br> *The  International Conference on Robotics and Automation (ICRA), 2018*</td>
   </tr>
@@ -117,7 +130,8 @@ papers: >
   <table>
    <tbody>
   <tr>
-    <td markdown="span">[Exploiting Variable Impedance in Domains with Contacts](/publications/thesis.html).
+    <td class="pub-img"></td>
+    <td class="pub-text" markdown="span">[Exploiting Variable Impedance in Domains with Contacts](/publications/thesis.html).
     <br> **Andreea Radulescu**
     <br> *The University of Edinburgh*</td>
   </tr>
