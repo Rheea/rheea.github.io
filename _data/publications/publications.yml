@@ -21,7 +21,7 @@ papers: >
 
   <tr height ="10px"></tr>
   <tr>
-    <td class="pub-img"></td>
+    <td class="pub-img"><img src="/assets/img/publications/stance19fahmi-robot.png" alt="paper thumbnail" width="248" /></td>
     <td class="pub-text" markdown="span">[STANCE:Locomotion Adaptation over Soft Terrain](/publications/stance19fahmi.pdf).
     <br> S. Fahmi, M. Focchi, **A. Radulescu**, G. Fink, V. Barasuol and C. Semini
     <br> *EEE Transactions on Robotics (T-RO), 2019*</td>
