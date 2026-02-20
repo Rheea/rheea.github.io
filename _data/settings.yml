@@ -75,10 +75,10 @@ contact: >
 # Contact Section
 
 social:
-- {icon: 'github', link: 'https://github.com/rheea'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/andreearadulescu19081985/'}
 - {icon: 'envelope', link: 'mailto:andreearadulescu19@gmail.com'}
 - {icon: 'google', link: 'https://scholar.google.it/citations?user=I2yknQQAAAAJ&hl=en'}
+- {icon: 'github', link: 'https://github.com/rheea'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
